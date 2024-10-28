@@ -1,5 +1,5 @@
 # 💫 About Me:
-=Meu nome é Bernardo Farias Bett.<br>=Tenho 18 anos e agora estou fazendo curso técnico em desenvolvimento de sistemas.
+=Meu nome é Bernardo Farias Bett.<br>=Tenho 19 anos e agora estou fazendo curso técnico em desenvolvimento de sistemas.
 
 
 ## 🌐 Socials:
